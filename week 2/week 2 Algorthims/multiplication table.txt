@@ -1,0 +1,13 @@
+Algorithim for multiplication table
+
+step1:start 
+step2:declare variables i,n,res
+step3:read values into i,n (n=1,i=2)
+step4:check n<=10 if yes go to step5 otherwise go to step 9
+step5:calculate i*n =res
+step6:print res 
+step7:increment the n value by 1
+step8:repeat step4,5,6,7 until n<=10
+step9:stop
+
+

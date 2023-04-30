@@ -1,0 +1,9 @@
+psuedocode for area of rectangle 
+ 
+step1:Begin
+step2:declare length,breadth,area
+step3:input the values into length,breadth
+step4:area=length*breadth
+step5:print area
+step6:End 
+

@@ -1,0 +1,9 @@
+psuedocode for Addition of three numbers
+ 
+step1:Begin
+step2:declare num1,num2,num3,sum
+step3:input the values to num1,num2,num2
+step4:sum=num+num2+num3
+step5:print sum 
+step6:End 
+

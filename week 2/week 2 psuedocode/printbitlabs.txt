@@ -1,0 +1,12 @@
+psuedocode to print bitlabs 10 times 
+ 
+step1:Begin
+step2:declare count 
+step3:assign the value into count (count=1)
+step4:while(count<=10)
+step5:do
+step6:print "bitlabs"
+step7:count=count+1
+step8:end while 
+step9:End 
+

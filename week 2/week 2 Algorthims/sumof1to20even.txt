@@ -1,0 +1,14 @@
+algorthim to for the sum of 1 to 20 even numbers 
+
+
+step1 start 
+step2 declare count, sum
+step3 assign value 1 to count and 0 to sum 
+step4 if count%2==0 go to step5 otherwise go to step6
+step5 sum=sum+count 
+step6 increment the count value by 1 and store it in count 
+step7 repeat step4 until count value is less than or equal ot 20
+step8 display sum 
+step9 stop 
+
+

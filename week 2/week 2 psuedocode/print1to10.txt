@@ -1,0 +1,11 @@
+pusedocode to print 1 to 10
+
+step1:Begin
+step2:declare count
+step3:assign the value with 1 (count=1)
+step4:while(count<=10)
+step5:do
+step6:print count 
+step7:count=count+1
+step8:end while 
+step9:End 

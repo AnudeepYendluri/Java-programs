@@ -1,0 +1,50 @@
+library management 
+
+student module 
+
+step1:start 
+step2:enter the library
+step3:check in using library card and sign in register
+step4:choose the book u want to read 
+step5:select the table to sit 
+step6:read the book 
+step7:after reading sumbit the book to librarian 
+step8:check out the sign book
+step9:stop
+
+
+librarian 
+
+step1:start 
+step2:enter the library 
+step3:check the books for their respective shelf and order 
+step4:if not give the correct shelf and order 
+step5:receive the customer/student
+step6:receive information and maku sure the checkin
+step7:if person unable to find the book
+step8:help them to find the book and suggest  any books if required 
+step9:if person wants the books to take home 
+step10:take the no of days 
+step11:if person wants to leave 
+step12:receive checkout information
+step13:stop
+
+customer 
+
+step1:start 
+step2:enter the library 
+step3:check in using credentials  
+step4:choose the book u want to read or choose multiple books 
+step5:receive the information from the books 
+step6:if want the book to take home if yes go to step7 otherwise complete the book anf go to step8
+step7:sign the no of days 
+step8:check out using credentials 
+step7:stop
+
+
+
+
+
+
+
+

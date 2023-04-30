@@ -1,0 +1,13 @@
+Algorithim to find the perfect number 
+
+step1:start 
+step2:declare the variables num,sum,count
+step3:read the values o to sum and 1 to count (sum=0,count=1)
+step4-check the condition if  num%count==0 if it is true go to stp5 otherwise go to step6
+step5.sum=sum+count 
+step6-count=count+1
+step7-repeat these steps 4,5,6 until it reaches count<num if it is true repeat those step otherwise go to step8
+step8.check the value in num with value in sum if sum==num is true go to step9 otherwise go to step10
+step9.print num is perfect number 
+step10.print num is not a perfect number 
+step11.stop 

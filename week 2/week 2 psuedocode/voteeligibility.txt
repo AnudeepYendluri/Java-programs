@@ -1,0 +1,11 @@
+psuedocode for voter eligibility 
+ 
+step1:Begin
+step2:declare age
+step3:input the values into age 
+step4:if age>=18
+step5:print person is eligible 
+step6:else 
+step7:print person is not eligible 
+step8:end if 
+step9:End 

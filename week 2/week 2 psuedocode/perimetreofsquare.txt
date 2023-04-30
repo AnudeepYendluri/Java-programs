@@ -1,0 +1,9 @@
+psuedocode for perimetre of square
+ 
+step1:Begin
+step2:declare side,area
+step3:input the values side 
+step4:perimetre=4*side 
+step5:print perimetre
+step6:End 
+

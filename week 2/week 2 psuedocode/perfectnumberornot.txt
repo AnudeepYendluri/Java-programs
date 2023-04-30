@@ -1,0 +1,19 @@
+psuedocode for wheather the given number is perfect number or not 
+
+
+step1:start 
+step2:declare num,sum,count
+step3:assign num=4,sum=0,count=1
+step4:while (count<num)
+step5:do
+step6:if(num%count==0)
+step7:sum=sum+count
+step8:endif 
+step9:count=count+1
+step10:end while 
+step11:if (num==sum)
+step12:print "perfect number"
+step13:else 
+step14:print "not a perfect number"
+step15:end if 
+step16:End  

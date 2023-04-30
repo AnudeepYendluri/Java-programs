@@ -1,0 +1,15 @@
+pseudocode to print the sum of even numbers from 1to 50
+
+
+step1:Begin
+step2:declare count,sum
+step3:assign count=1,sum=0
+step4:while(count<=50)
+step5:do
+step6:if (count%2==0)
+step7:sum=sum+count
+step8:end if 
+step9:count=count+1
+step10:end while 
+step11:print sum
+step12:End 

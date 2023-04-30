@@ -1,0 +1,13 @@
+psuedocode for factorial of a number
+
+
+step1:Begin
+step2:declare num,count,res 
+step3:initialize num=4,count=1,res=1
+step4:while(count<=num)
+step5:do
+step6:res=count*res
+step7:count=count+1
+step8:end while
+step9:display "res"
+step10:End

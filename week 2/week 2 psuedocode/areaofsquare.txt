@@ -1,0 +1,9 @@
+psuedocode for area of square
+ 
+step1:Begin
+step2:declare side,area
+step3:input the values side 
+step4:area=side*side 
+step5:print area
+step6:End 
+

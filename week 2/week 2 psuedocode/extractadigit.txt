@@ -1,0 +1,12 @@
+Algorthim to extract a digit 
+
+step1- Begin
+step2- declare num,digit
+step3- input num=254,digit=0
+step4- while(num>0)
+step5- do
+step6- digit=num%10
+step7- print digit 
+step8- num=num/10
+step9- end while 
+step10-stop 

@@ -1,0 +1,11 @@
+psuedocode for wheather the given number is positive or negative 
+ 
+step1:Begin
+step2:declare num
+step3:input the values to num
+step4:if num>=0 
+step5:print num is positive 
+step6:else 
+step7:print num is negative  
+step8:end if  
+step9:End

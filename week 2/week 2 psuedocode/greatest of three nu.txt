@@ -1,0 +1,13 @@
+psuedocode for greatest of three numbers
+ 
+step1:Begin
+step2:declare num1,num2,num3
+step3:input the values to num1,num2,num2
+step4:if (num1>num2 && num1>num3)
+step5:print num1 is greater 
+step6:else if(num2>num1 && num2>num3)
+step7:print num2 is greater 
+step8:else 
+step9:print num3 is greater
+step10:end if 
+step11:End 

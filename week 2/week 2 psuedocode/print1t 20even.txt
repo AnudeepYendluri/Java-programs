@@ -1,0 +1,14 @@
+psuedocode to print  1 to 20 even numbers 
+ 
+step1:Begin
+step2:declare count
+step3:assign the value into count (count=1)
+step4:while(count<=20)
+step5:do
+step6:if(count%2==0)
+step7:print count 
+step8:end if 
+step9:count=count+1
+step9:end while 
+step10:End 
+

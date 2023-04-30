@@ -1,0 +1,11 @@
+psuedocode for given numberis even or odd 
+ 
+step1:Begin
+step2:declare num
+step3:input the value into num
+step4:if num%2==0
+step5:print even number 
+step6:else 
+step7:print odd number 
+step8:end if 
+step9:End

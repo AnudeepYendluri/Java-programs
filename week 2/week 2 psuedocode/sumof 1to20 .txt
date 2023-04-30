@@ -1,0 +1,12 @@
+pusedocode to print sum of 1 to 20 numbers 
+
+step1:Begin
+step2:declare count,sum
+step3:assign the value with 1 to count and 0 to sum (count=1,sum=0)
+step4:while(count<=20)
+step5:do
+step6:sum=sum+count
+step7 count=count+1
+step8:end while 
+step9:print sum 
+step10:End 

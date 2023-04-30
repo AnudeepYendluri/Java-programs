@@ -1,0 +1,9 @@
+psuedocode for perimetre of rectangle 
+ 
+step1:Begin
+step2:declare length,breadth,perimetre
+step3:input the values into length,breadth
+step4:perimetre=2(length+breadth)
+step5:print perimetre
+step6:End 
+

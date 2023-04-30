@@ -1,0 +1,13 @@
+Write a program that prompts the user to enter their weight in pounds and their height in inches, and then calculates their body mass index (BMI). The program should then output whether they are underweight, normal weight, overweight, or obese based on their BMI.
+
+
+step1-start
+step2-declare weight,height,BMI
+step3-read the value of weight in pounds and height in inches from the user.
+step4-calculate BMI using the formula
+step5-BMI=((weight in pounds)/(height in inches)*(height in inches))*703
+step6-check the condition if BMI less than 18.5(BMI<18.5) print person is underweight.
+step7-if else BMI is greater than or equal 18.5 and BMI is less than 25((BMI>=18.5)&&(BMI<25)) then print person is normal weight.
+step8- if else BMI is greater than or equal to 25 and less than 30((BMI>=25)&&(BMI<30)) then print person is overweight.
+step9-otherwise BMI is greater than or equal to 30(BMI>=30)then print person is obese.
+step10-stop.

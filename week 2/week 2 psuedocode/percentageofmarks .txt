@@ -1,0 +1,9 @@
+psuedocode for percentage of marks obtained by a student 
+ 
+step1:Begin
+step2:declare m1,m2,m3,m4,m5,percentage 
+step3:input the values into m1,m2,m3,m4,m5
+step4:percentage= (m1+m2+m3+m4+m5)/500 * 100
+step5:print percentage 
+step6:End 
+

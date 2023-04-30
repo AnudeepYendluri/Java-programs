@@ -1,0 +1,12 @@
+psuedocode for greatest of two numbers 
+
+
+step1:begin
+step2:declare num1,num2
+step3:Input the values num1,num2
+step4:if(num1>num2)
+step5:print num1 is greater
+step6:else
+step7:print num2 is greater
+step8:end if
+step9:End
