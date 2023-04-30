@@ -1,0 +1,11 @@
+largest number three numbers 
+step1 start 
+step2 select num1,num2,num2 
+step3 read values into num1 ,num2 (12,24,8)
+step4 if num1 greather than  num2 and num1 greater than num3
+step4 display num1 is greater 
+step5 elseif num2 greater than num1 and num2 greater than num3
+step6 display num2 is greater 
+step7 otherwise display num3 is greater 
+step8 stop
+

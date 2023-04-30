@@ -1,0 +1,27 @@
+
+
+swapping of two numbers 
+step1 start 
+step2 select a,b,temp
+step3 read values into a,b
+step4 display a,b before swapping 
+step5 temp=a;
+step6 a=b;
+step7 b=temp;
+step8 display a,b after swapping 
+step8 stop
+
+without using temp
+
+step1 start 
+step2 select a,b
+step3 read values into a,b (a=10,b=20)
+step4 display a,b before swapping 
+step5 a=a+b // 10+20=30
+step6 b=a-b // 30-20=10
+step7 a=a-b // 30-10=20
+step8 display a,b after swapping (a=20,b=10)
+step8 stop
+
+
+

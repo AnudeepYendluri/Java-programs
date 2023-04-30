@@ -1,0 +1,10 @@
+4 log in to Facebook account with valid email address and password.
+
+step1 start 
+step2 select email,password 
+step3 read values into email,password 
+step4 check for valid email and password 
+step5 if email and password are valid 
+step6 then display you logged in succesfully 
+step6 otherwise display incorrect username / password 
+step7 stop 

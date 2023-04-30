@@ -1,0 +1,8 @@
+finding the largest number 
+step1 start 
+step2 select num1,num2
+step3 read values into num1 ,num2
+step4 if num1 greather than equal to num2  
+step4 display num1 is greater 
+step5 otherwise display num2 is greater 
+step6 stop

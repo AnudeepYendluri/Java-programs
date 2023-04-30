@@ -1,0 +1,9 @@
+wheather the charecter is oval or consonent 
+step1 start 
+step2 select char 
+step3 read values into char 
+step4 if char='a'or char='e' or char='i' or char = 'o' or char ='u' 
+step4 print char as vowel 
+step5 ohter wise print as consonent 
+step7 stop
+

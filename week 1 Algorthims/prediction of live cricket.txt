@@ -1,0 +1,10 @@
+7.prediction of live cricket 
+step1 start 
+step2 select teams csk,mi,previous scores 
+step3 read values to csk,mi (mi opt to bowl)
+step4 if pervious scores of csk greater than mi
+step5 else if csk 1st wicket partnership is above 100 and the run rate is above 12
+step6 display csk winning percentage is 80
+step7 else if pervious scores is greater than csk and mi has more wicket in powerplay
+step8 else display mi winning percentage is 80
+step9 stop 

@@ -1,0 +1,11 @@
+5.To donate blood 
+step1 start 
+step2 select blood group, age,weight ,health status 
+step3 if person age greater than 18 
+step4 else if check for required blood group
+step5 else if check for weight above 60
+step6 else if check health status is good 
+step6 display you are eligible to donate
+step7 else 
+step8 display you are not eligible 
+step9 stop 

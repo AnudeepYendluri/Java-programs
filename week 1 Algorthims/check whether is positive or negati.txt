@@ -1,0 +1,9 @@
+check whether is positive or negative 
+
+step1 start 
+step2 select num
+step3 read values into num 
+step4 if num >= 0 
+step5 then display positive 
+step6 other wise  display negative 
+step7 stop

@@ -1,0 +1,9 @@
+1.check wherther eligible for vote or not
+
+step1 start 
+step2 select age
+step3 read value to age 
+step4 if age greather than equal to 18
+step4 display your are eligible 
+step5 otherwise display not eligible
+step6 stop

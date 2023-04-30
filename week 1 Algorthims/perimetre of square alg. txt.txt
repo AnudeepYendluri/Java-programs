@@ -1,0 +1,8 @@
+perimetre of square 
+
+step1 start 
+step2 select side,perimetre
+step3 read value into side 
+step4 perimetre = 4*side 
+step5 dislay perimetre 
+step6 stop 

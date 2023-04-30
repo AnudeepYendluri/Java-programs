@@ -1,0 +1,10 @@
+2.Check your Admission possibility to your dream College based on   your academic marks. 
+
+
+step1 start 
+step2 select marks 
+step3 read values into marks 
+step4 if marks greater than equal to 75 percent 
+step5 display you are qualified
+step6 otherwise display not qualified
+step7 stop 

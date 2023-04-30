@@ -1,0 +1,8 @@
+Area of square 
+
+step1 start 
+step2 select side //va
+step3 read value into side 
+step4 area = side*side 
+step5 dislay area 
+step6 stop 

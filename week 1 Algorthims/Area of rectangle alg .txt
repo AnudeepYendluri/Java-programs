@@ -1,0 +1,8 @@
+Area of rectangle
+
+step1 start 
+step2 select lenght,breadth,area 
+step3 read values into length,breadth
+step4 area = lenght*breadth 
+step5 dislay area 
+step6 stop 

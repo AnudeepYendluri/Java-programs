@@ -1,0 +1,7 @@
+simple intrest 
+step1 start
+step2 select  si,time,rate,principle amount
+step3 read values into time priciple amount,time,rate
+step4 si = (princle amount*time*rate)/100
+step5 display si
+step6 stop 

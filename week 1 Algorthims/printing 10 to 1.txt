@@ -1,0 +1,8 @@
+10.printing 10 to 1 
+step1 start
+step2 declare count
+step3 assign the value 10 to count variable
+step4 print "count";
+step5 decrement the count value by 1 and store it in count variable
+step6 repeat step 4 and step 5 until the count value is greater than or equal to 1 (ie count>=1)or count>0
+step7 stop 
