@@ -1,0 +1,80 @@
+algothims for ATM process 
+
+
+withdrawl
+
+step1:start
+step2:insert the card
+step3:choose the language
+step4:choose withdrawl option
+step5:enter 4 digit pin
+step6:enter amount
+step7:it check if the amount is avilable or not if yes go to step8 otherwise go to step9
+step8:collect the amount and exit
+step9:insufficent amount 
+step10:remove card    
+step11:stop  
+
+
+ministatement 
+
+step1:start
+step2:visit the ATM machine
+step3:insert the ATM card into the machine
+step4:select the language
+step5:enter your four digit ATM pin number into the machine
+step6:select the mini statement option from the screen in the machine
+step7:stop
+​
+    
+
+step1 : start
+step 2: declare the variable as atm card
+step 3: read the variable
+step 4: insert the atm card
+step 5: enter your pin 
+step 6: we can click on the option called balance and we can verify
+step 7: stop
+
+
+algorithm for deposit
+
+step1:start
+step2:enter atm card
+step3:enter the account number
+step4:verify the account number and shows the account holder name
+step5:asks for notes
+step6:if all notes are received it tells about amount and notes otherwise
+step7:if it rejects some notes it takes only received to account and declare the notes an amount
+step8:deposit successfull
+step9:stop
+​
+        
+algorthim for atm service for changing the pin 
+
+
+step1:start 
+step2:insert card
+step3:select services
+step4:select generate pin/change pin 
+step5:select change pin 
+step6:and entire registered mobile number 
+step7:an opt will be received to your mobile number 
+step8:now verify otp 
+step9:u will be redirected to choose another pin 
+step10:enter new pin and click on generate 
+step11:remove card 
+step12:stop
+
+
+algorithm for deposit
+
+step1:start
+step2:insert atm card
+step3:select deposit option
+step4:enter the account number
+step5:verify the account number and shows the account holder name
+step6:asks for amount
+step7:if all cash are received it displays about amount
+step8:deposit successfull
+step9:stop
