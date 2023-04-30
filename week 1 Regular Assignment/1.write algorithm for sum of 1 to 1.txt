@@ -1,0 +1,10 @@
+1.write algorithm for sum of 1 to 10 numbers 
+
+step1 start 
+step2 declare count,num 
+step3 assign value 1 to count and value 0 to num ( count=1 , num=0)
+step4 num = num+count = 0+1 = 1 and store it in num 
+step5 increment the count value by 1 and store it in count variable (count = count+1 =1+1=2 )
+step6 repeat step 4 and step 5 until count value less than equal to 10
+step7 display num 
+step8 stop 

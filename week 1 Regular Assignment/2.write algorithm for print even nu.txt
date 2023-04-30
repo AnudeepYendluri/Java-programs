@@ -1,0 +1,10 @@
+2.write algorithm for print even numbers from 1 to 100
+
+step1- start 
+step2-declare count
+step3-assign the value 1 to count 
+step4-check if the count value is divisible by 2 or not if it is divisible by 2 go to step5 otherwise go to step6
+step5-print count 
+step6-increment the count value by 1 
+step7-repeat step4 until count value count<=100
+step8-stop 

@@ -1,0 +1,5 @@
+Assingnment questions 
+
+1.write algorithm for sum of 1 to 10 numbers.
+2.write algorithm for print even numbers from 1 to 100
+3.write algorithm for print odd numbers from 1 to 100
